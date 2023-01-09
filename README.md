@@ -2,7 +2,7 @@
 
 ## 1. Overview of dataset and project
 
-> This project targets to help business track KPIs over time (Transactions, Porfit, Revenue, Returns) at different granularity levels from product brand, to country and regional performance.
+> This project targets to help business track KPIs over time (Transactions, Profit, Revenue, Returns) at different granularity levels from product brand, to country and regional performance.
  
 > Dataset includes +269k transactions over two year period of Maven Market sales.
 
