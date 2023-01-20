@@ -1,7 +1,5 @@
 # Maven_Market_Sales_Analysis_PowerBI_Report
 
-[Your link](https://app.powerbi.com/view?r=eyJrIjoiMjNiNzE3ZTMtY2E2Mi00MjZjLTlhN2ItM2JmNGFkZDU5ZDdiIiwidCI6ImMxZWM1MTc2LWY3ZDktNDk5NS1hMTM0LTFmOWY2MmY5Mzk5NyIsImMiOjh9)
-
 ## 1. Overview of dataset and project
 
 > This project targets to help business track KPIs over time (Transactions, Profit, Revenue, Returns) at different granularity levels from product brand, to country and regional performance.
