@@ -1,6 +1,6 @@
 # Maven_Market_Sales_Analysis_PowerBI_Report
 
-<iframe title="AdventureWork_Report" width="0" height="0" src="https://app.powerbi.com/view?r=eyJrIjoiNmYwZjljZjItNjRkZi00YjMwLTlkOTItMzgxN2NlNjNiYmEyIiwidCI6ImMxZWM1MTc2LWY3ZDktNDk5NS1hMTM0LTFmOWY2MmY5Mzk5NyIsImMiOjh9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+[Link to Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNmYwZjljZjItNjRkZi00YjMwLTlkOTItMzgxN2NlNjNiYmEyIiwidCI6ImMxZWM1MTc2LWY3ZDktNDk5NS1hMTM0LTFmOWY2MmY5Mzk5NyIsImMiOjh9&pageName=ReportSection)
 
 ## 1. Overview of dataset and project
 
